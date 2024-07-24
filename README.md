@@ -1,4 +1,4 @@
-IBM Certification Readme
+**IBM Certification Readme**
 
 Overview
 Welcome to the README file for IBM Certifications. This document provides essential information and resources to help you understand and prepare for IBM certifications.
@@ -17,17 +17,3 @@ Additional Tips
 - Revision Strategy: Review notes and revisit challenging topics regularly.
 - Contact Support: For any questions or assistance regarding IBM certifications, contact IBM certification support.
 
-
-Sample C++ code:
-#include <iostream>
-
-using namespace std;
-
-int main() {
-    // Example code demonstrating basic C++ functionality
-    cout << "Hello, World!" << endl;
-    
-    // Your own code examples relevant to certification topics can be added here
-    
-    return 0;
-}
